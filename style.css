@@ -1,7 +1,9 @@
 
 
 
-
+body {
+	background-color: #FFFCFB;	
+}
 
 p {
 	text-align: center;
@@ -20,14 +22,17 @@ h2 {
 	font-family: "Helvetica";
 	font-size: 20px;
 	margin-left: 120px;
+
 }
 
 .about p {
 	text-align: left;
 	margin-left: 120px;
+	margin-right: 120px;
 }
 
 nav {
 	text-align: center;
 	font-family: "Helvetica"; 
 }
+
