@@ -14,6 +14,7 @@ body {
 	background-color: #F5F0EB;
 	margin-left: auto;
 	margin-right: auto;
+	padding: 25px;
 }
 
 .firstline {
@@ -82,7 +83,7 @@ h2 {
 }
 
 footer {
-	padding-top: 10px;
+	padding-top: 25px;
 	padding-bottom: 0px;
 	padding-left: 300px;
 	font-family: "Helvetica"; 
@@ -96,3 +97,46 @@ footer {
 	width: 100%;
 }
 
+.aboutportfolio {
+	width:800px;
+	height:100%;
+	text-align: left;
+	margin-left: 120px;
+	margin-right: 0px;
+	float: left;
+	padding-bottom: 50px;
+	font-size: 15pt;
+}
+
+h3 {
+	text-align: left;
+	font-family: "Helvetica";
+	font-size: 15pt;
+	padding-top: 25px;
+}
+
+.relaxrportfolio {
+	margin-left: 225px;
+	width: 541px;
+	height: 402px;
+	padding-bottom: 25px;
+	padding-top: 0px;
+}
+
+.thirdlineportfolio {
+	width: 800px;
+	margin-left: 100px;
+	margin-right: 0px;
+	height: 1px;
+}
+
+.footerportfolio {
+	padding-top: 25px;
+	font-family: "Helvetica"; 
+	font-weight: bold;
+	height: 25px;
+	width: 400px;
+	text-align: center;
+
+
+}
