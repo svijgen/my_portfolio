@@ -1,20 +1,43 @@
-
-
+/*
+* {
+	margin: 0px;
+	padding: 0px;
+}
+*/
 
 body {
-	background-color: #FFFCFB;	
+	background-color: #FFFFFF;	
+}
+.wrapper {
+	width: 1000px;
+	height: 100%;
+	background-color: #F5F0EB;
+	margin-left: auto;
+	margin-right: auto;
 }
 
-p {
+.firstline {
+	padding-top: 25px;
+}
+
+nav {
+	padding-top: 25px;
+	padding-bottom: 5px;
 	text-align: center;
 	font-family: "Helvetica";
-
+	font-weight: bold;
 }
+
 h1 {
+	padding-top: 5px;
 	text-align: center;
 	font-family: "Helvetica";
 	font-size: 45px;
+}
 
+.secondline {
+	width: 800px;
+	height: 1px;
 }
 
 h2 {
@@ -22,17 +45,54 @@ h2 {
 	font-family: "Helvetica";
 	font-size: 20px;
 	margin-left: 120px;
+	padding-top: 25px;
+}
 
+
+.about {
+	width:500px;
+	height:100%;
+	text-align: left;
+	margin-left: 120px;
+	margin-right: 0px;
+	float: left;
+	padding-bottom: 50px;
+	font-size: 15pt;
 }
 
 .about p {
-	text-align: left;
-	margin-left: 120px;
-	margin-right: 120px;
+	padding-bottom: 20px;
 }
 
-nav {
-	text-align: center;
+.profilephoto {
+	margin-right: 100px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+	width: 250px;
+	height: 250px;
+	float: right;
+	padding-bottom: 0 px;
+}
+
+.thirdline {
+	width: 500px;
+	margin-left: 100px;
+	margin-right: 0px;
+	height: 1px;
+}
+
+footer {
+	padding-top: 10px;
+	padding-bottom: 0px;
+	padding-left: 300px;
 	font-family: "Helvetica"; 
+	font-weight: bold;
+
+}
+
+.fourthline {
+	padding-top: 50px;
+	padding-bottom: 25px;
+	width: 100%;
 }
 
