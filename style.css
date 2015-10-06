@@ -8,6 +8,7 @@
 body {
 	background-color: #FFFFFF;	
 }
+
 .wrapper {
 	width: 1000px;
 	height: 100%;
@@ -140,7 +141,7 @@ h3 {
 }
 
 h4 {
-	font-size: 12pt;
+	font-size: 18pt;
 	width: 800px;
 	text-align: left;
 	margin-left: 120px;
@@ -160,8 +161,6 @@ h4 {
 
 .thirdlineportfolio {
 	width: 800px;
-	margin-left: 250px;
-	margin-right: 0px;
 	height: 1px;
 }
 
@@ -172,4 +171,9 @@ h4 {
 	height: 25px;
 	width: 400px;
 	text-align: center;
+}
+
+.fourthlineportfolio {
+	padding-bottom: 25px;
+	width: 100%;
 }
